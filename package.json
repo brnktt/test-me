@@ -21,6 +21,7 @@
   },
   "homepage": "https://github.com/brnktt/test-me#readme",
   "dependencies": {
-    "chalk": "^3.0.0"
+    "chalk": "^3.0.0",
+    "jsdom": "^16.2.1"
   }
 }
